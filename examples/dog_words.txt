@@ -1,0 +1,13 @@
+# One word per line, or "word, meaning". Lines starting with # are comments.
+loyal, always standing by your friends and family
+fetch, to chase something and bring it back
+kennel, a small shelter where a dog sleeps
+leash, a long strap used to walk a dog safely
+wag, to move the tail quickly out of joy
+muzzle, the nose and mouth part of a dog's face
+groom, to brush and clean an animal's coat
+bark, the loud sound a dog makes
+puppy, a very young dog
+obedient, well trained and quick to follow commands
+veterinarian, an animal doctor
+parade, to march proudly in a line
